@@ -6,7 +6,7 @@ X-WR-TIMEZONE:America/New_York
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 BEGIN:VEVENT
 UID:c87139c45ec75d1f@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20260930T083000
 DTEND;TZID=America/New_York:20260930T084500
 SUMMARY:GDP Q2 (3rd est.)
@@ -16,7 +16,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35e8a4350d538ca4@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20260930T083000
 DTEND;TZID=America/New_York:20260930T084500
 SUMMARY:PCE inflation (Aug)
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c9e7f5cf3967281d@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261002T083000
 DTEND;TZID=America/New_York:20261002T084500
 SUMMARY:Employment Situation (NFP)
@@ -37,7 +37,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c6eed198b8f55c@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261014T083000
 DTEND;TZID=America/New_York:20261014T084500
 SUMMARY:CPI
@@ -47,7 +47,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:993f541e1ca84070@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T084500
 SUMMARY:PPI
@@ -57,7 +57,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7313d2d710a4c01c@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261015T083000
 DTEND;TZID=America/New_York:20261015T084500
 SUMMARY:Retail Sales (Sep)
@@ -68,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ce2758a8713dbdf@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261028T140000
 DTEND;TZID=America/New_York:20261028T141500
 SUMMARY:FOMC rate decision
@@ -79,7 +79,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:14cf297d16a9bebb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261029T083000
 DTEND;TZID=America/New_York:20261029T084500
 SUMMARY:GDP Q3 (advance)
@@ -89,7 +89,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e88ddbd8b62f96bb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261029T083000
 DTEND;TZID=America/New_York:20261029T084500
 SUMMARY:PCE inflation (Sep)
@@ -98,275 +98,8 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:48f806de61c85146@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;VALUE=DATE:20261102
-SUMMARY:Loan Officer Survey
-DESCRIPTION:Loan Officer Survey\nImpact: Low\nSource: Forex Factory economi
- c calendar\nhttps://www.forexfactory.com/calendar?day=nov2.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5887ce30e52a782e@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261102T094500
-DTEND;TZID=America/New_York:20261102T100000
-SUMMARY:Final Manufacturing PMI
-DESCRIPTION:Final Manufacturing PMI\nImpact: Low\nForecast: 56.0\nPrevious:
-  56.0\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.c
- om/calendar?day=nov2.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f4342739792fe1af@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261102T100000
-DTEND;TZID=America/New_York:20261102T101500
-SUMMARY:ISM Manufacturing PMI
-DESCRIPTION:ISM Manufacturing PMI\nImpact: Medium\nForecast: 54.5\nPrevious
- : 54.5\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.
- com/calendar?day=nov2.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4bb4e2a2afa7bf71@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261102T100000
-DTEND;TZID=America/New_York:20261102T101500
-SUMMARY:Construction Spending m/m
-DESCRIPTION:Construction Spending m/m\nImpact: Low\nForecast: 0.4%\nPreviou
- s: 0.9%\nSource: Forex Factory economic calendar\nhttps://www.forexfactory
- .com/calendar?day=nov2.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b31eb2a658e64897@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261102T100000
-DTEND;TZID=America/New_York:20261102T101500
-SUMMARY:ISM Manufacturing Prices
-DESCRIPTION:ISM Manufacturing Prices\nImpact: Low\nForecast: 77.2\nPrevious
- : 77.9\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.
- com/calendar?day=nov2.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6d5a1b62b34d73cd@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;VALUE=DATE:20261103
-SUMMARY:RCM/TIPP Economic Optimism
-DESCRIPTION:RCM/TIPP Economic Optimism\nImpact: Low\nForecast: 46.2\nPrevio
- us: 46.8\nSource: Forex Factory economic calendar\nhttps://www.forexfactor
- y.com/calendar?day=nov3.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fa0b9861fd7acfa0@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;VALUE=DATE:20261103
-SUMMARY:Omdia Total Vehicle Sales
-DESCRIPTION:Omdia Total Vehicle Sales\nImpact: Low\nForecast: 15.9M\nPrevio
- us: 16.0M\nSource: Forex Factory economic calendar\nhttps://www.forexfacto
- ry.com/calendar?day=nov3.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4e6885347718af34@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;VALUE=DATE:20261103
-SUMMARY:Congressional Elections
-DESCRIPTION:Congressional Elections\nImpact: High\nSource: Forex Factory ec
- onomic calendar\nhttps://www.forexfactory.com/calendar?day=nov3.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:56d448133e89731a@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261103T100000
-DTEND;TZID=America/New_York:20261103T101500
-SUMMARY:JOLTS Job Openings
-DESCRIPTION:JOLTS Job Openings\nImpact: Medium\nForecast: 7.11M\nPrevious: 
- 7.08M\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.c
- om/calendar?day=nov3.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:80e8bee43a3d35cb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261103T100000
-DTEND;TZID=America/New_York:20261103T101500
-SUMMARY:Factory Orders m/m
-DESCRIPTION:Factory Orders m/m\nImpact: Low\nForecast: 1.2%\nPrevious: 0.1%
- \nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com/ca
- lendar?day=nov3.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:43a15fdf93317503@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261103T163000
-DTEND;TZID=America/New_York:20261103T164500
-SUMMARY:API Weekly Statistical Bulletin
-DESCRIPTION:API Weekly Statistical Bulletin\nImpact: Low\nSource: Forex Fac
- tory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov3.202
- 6
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:704aa19d51109ec6@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261104T081500
-DTEND;TZID=America/New_York:20261104T083000
-SUMMARY:ADP Non-Farm Employment Change
-DESCRIPTION:ADP Non-Farm Employment Change\nImpact: Low\nForecast: 68K\nPre
- vious: 90K\nSource: Forex Factory economic calendar\nhttps://www.forexfact
- ory.com/calendar?day=nov4.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1fa29ff9ee6ba082@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261104T094500
-DTEND;TZID=America/New_York:20261104T100000
-SUMMARY:Final Services PMI
-DESCRIPTION:Final Services PMI\nImpact: Low\nForecast: 57.9\nPrevious: 57.9
- \nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com/ca
- lendar?day=nov4.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:50c203a509bf9380@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261104T100000
-DTEND;TZID=America/New_York:20261104T101500
-SUMMARY:ISM Services PMI
-DESCRIPTION:ISM Services PMI\nImpact: Medium\nForecast: 54.9\nPrevious: 54.
- 9\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com/c
- alendar?day=nov4.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:63ee7416d594ce3d@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261104T103000
-DTEND;TZID=America/New_York:20261104T104500
-SUMMARY:Crude Oil Inventories
-DESCRIPTION:Crude Oil Inventories\nImpact: Low\nPrevious: -1.9M\nSource: Fo
- rex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=n
- ov4.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:5c53850958ba2c03@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T053000
-DTEND;TZID=America/New_York:20261105T054500
-SUMMARY:Challenger Job Cuts y/y
-DESCRIPTION:Challenger Job Cuts y/y\nImpact: Low\nPrevious: -19.9%\nSource:
-  Forex Factory economic calendar\nhttps://www.forexfactory.com/calendar?da
- y=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6001e577f9553ad9@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T083000
-DTEND;TZID=America/New_York:20261105T084500
-SUMMARY:Unemployment Claims
-DESCRIPTION:Unemployment Claims\nImpact: Medium\nForecast: 197K\nPrevious: 
- 194K\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.co
- m/calendar?day=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fc5ae24f09f93662@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T083000
-DTEND;TZID=America/New_York:20261105T084500
-SUMMARY:Prelim Nonfarm Productivity q/q
-DESCRIPTION:Prelim Nonfarm Productivity q/q\nImpact: Low\nForecast: 2.8%\nP
- revious: 1.4%\nSource: Forex Factory economic calendar\nhttps://www.forexf
- actory.com/calendar?day=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:53fc66d2679529d4@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T083000
-DTEND;TZID=America/New_York:20261105T084500
-SUMMARY:Prelim Unit Labor Costs q/q
-DESCRIPTION:Prelim Unit Labor Costs q/q\nImpact: Low\nForecast: 0.3%\nPrevi
- ous: 1.3%\nSource: Forex Factory economic calendar\nhttps://www.forexfacto
- ry.com/calendar?day=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:38578013e4440528@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T085000
-DTEND;TZID=America/New_York:20261105T090500
-SUMMARY:FOMC Member Hammack Speaks
-DESCRIPTION:FOMC Member Hammack Speaks\nImpact: Low\nSource: Forex Factory 
- economic calendar\nhttps://www.forexfactory.com/calendar?day=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ed7700d9bd641d9f@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T091000
-DTEND;TZID=America/New_York:20261105T092500
-SUMMARY:FOMC Member Barkin Speaks
-DESCRIPTION:FOMC Member Barkin Speaks\nImpact: Low\nSource: Forex Factory e
- conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov5.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7b09cbd51a81e89a@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261105T103000
-DTEND;TZID=America/New_York:20261105T104500
-SUMMARY:Natural Gas Storage
-DESCRIPTION:Natural Gas Storage\nImpact: Low\nPrevious: 80B\nSource: Forex 
- Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov5.
- 2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4b86b840119b9211@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T043000
-DTEND;TZID=America/New_York:20261106T044500
-SUMMARY:FOMC Member Williams Speaks
-DESCRIPTION:FOMC Member Williams Speaks\nImpact: Low\nSource: Forex Factory
-  economic calendar\nhttps://www.forexfactory.com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:95d58a5eb640f8f1@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261106T083000
 DTEND;TZID=America/New_York:20261106T084500
 SUMMARY:Employment Situation (NFP)
@@ -376,113 +109,76 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5948c7b82d7cd8b5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T083000
-DTEND;TZID=America/New_York:20261106T084500
-SUMMARY:Average Hourly Earnings m/m
-DESCRIPTION:Average Hourly Earnings m/m\nImpact: High\nForecast: 0.3%\nPrev
- ious: 0.1%\nSource: Forex Factory economic calendar\nhttps://www.forexfact
- ory.com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:46f7aafb13ca91d3@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T083000
-DTEND;TZID=America/New_York:20261106T084500
-SUMMARY:Non-Farm Employment Change
-DESCRIPTION:Non-Farm Employment Change\nImpact: High\nForecast: 63K\nPrevio
- us: 29K\nSource: Forex Factory economic calendar\nhttps://www.forexfactory
- .com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:eeeaa16915e41313@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T091000
-DTEND;TZID=America/New_York:20261106T092500
-SUMMARY:FOMC Member Musalem Speaks
-DESCRIPTION:FOMC Member Musalem Speaks\nImpact: Low\nSource: Forex Factory 
- economic calendar\nhttps://www.forexfactory.com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d7dea86fa4d9291f@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T100000
-DTEND;TZID=America/New_York:20261106T101500
-SUMMARY:Prelim UoM Consumer Sentiment
-DESCRIPTION:Prelim UoM Consumer Sentiment\nImpact: Medium\nForecast: 47.8\n
- Previous: 46.3\nSource: Forex Factory economic calendar\nhttps://www.forex
- factory.com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:550b74b13fe14a12@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T100000
-DTEND;TZID=America/New_York:20261106T101500
-SUMMARY:Prelim UoM Inflation Expectations
-DESCRIPTION:Prelim UoM Inflation Expectations\nImpact: Medium\nPrevious: 4.
- 7%\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com/
- calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:474c86326140c280@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T121500
-DTEND;TZID=America/New_York:20261106T123000
+UID:adefc11657211ccd@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261109T084000
+DTEND;TZID=America/New_York:20261109T085500
 SUMMARY:FOMC Member Bowman Speaks
 DESCRIPTION:FOMC Member Bowman Speaks\nImpact: Low\nSource: Forex Factory e
- conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov6.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d3fbe30e367a80c5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261106T150000
-DTEND;TZID=America/New_York:20261106T151500
-SUMMARY:Consumer Credit m/m
-DESCRIPTION:Consumer Credit m/m\nImpact: Low\nForecast: 12.0B\nPrevious: 8.
- 3B\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com/
- calendar?day=nov6.2026
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov9.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e532b74118659be1@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261109T100000
 DTEND;TZID=America/New_York:20261109T101500
 SUMMARY:Final Wholesale Inventories m/m
-DESCRIPTION:Final Wholesale Inventories m/m\nImpact: Low\nSource: Forex Fac
- tory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov9.202
- 6
+DESCRIPTION:Final Wholesale Inventories m/m\nImpact: Low\nForecast: 0.6%\nP
+ revious: 0.6%\nSource: Forex Factory economic calendar\nhttps://www.forexf
+ actory.com/calendar?day=nov9.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d46b9705a3bccf84@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261109T100000
+DTEND;TZID=America/New_York:20261109T101500
+SUMMARY:FOMC Member Goolsbee Speaks
+DESCRIPTION:FOMC Member Goolsbee Speaks\nImpact: Low\nSource: Forex Factory
+  economic calendar\nhttps://www.forexfactory.com/calendar?day=nov9.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:54f1609bced40147@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261109T121500
+DTEND;TZID=America/New_York:20261109T123000
+SUMMARY:FOMC Member Barkin Speaks
+DESCRIPTION:FOMC Member Barkin Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov9.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:04d56468de46098a@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T040000
+DTEND;TZID=America/New_York:20261110T041500
+SUMMARY:FOMC Member Waller Speaks
+DESCRIPTION:FOMC Member Waller Speaks\nImpact: Medium\nSource: Forex Factor
+ y economic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d71f8941380823b7@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T060000
 DTEND;TZID=America/New_York:20261110T061500
 SUMMARY:NFIB Small Business Index
-DESCRIPTION:NFIB Small Business Index\nImpact: Low\nSource: Forex Factory e
- conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+DESCRIPTION:NFIB Small Business Index\nImpact: Low\nForecast: 97.7\nPreviou
+ s: 97.9\nSource: Forex Factory economic calendar\nhttps://www.forexfactory
+ .com/calendar?day=nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9e08e617cb09e9dd@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T081500
 DTEND;TZID=America/New_York:20261110T083000
 SUMMARY:ADP Weekly Employment Change
@@ -492,8 +188,20 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e7f6ee1a2133418d@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T081600
+DTEND;TZID=America/New_York:20261110T083100
+SUMMARY:ADP Weekly Employment Change
+DESCRIPTION:ADP Weekly Employment Change\nImpact: Low\nPrevious: 16.8K\nSou
+ rce: Forex Factory economic calendar\nhttps://www.forexfactory.com/calenda
+ r?day=nov10.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6c38dd27e0cfc3b3@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T084500
 SUMMARY:CPI
@@ -503,62 +211,76 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7a9c20c8afac83@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T084500
 SUMMARY:Core CPI m/m
-DESCRIPTION:Core CPI m/m\nImpact: High\nSource: Forex Factory economic cale
- ndar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fab253d480615379@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261110T083000
-DTEND;TZID=America/New_York:20261110T084500
-SUMMARY:Core CPI y/y
-DESCRIPTION:Core CPI y/y\nImpact: High\nSource: Forex Factory economic cale
- ndar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+DESCRIPTION:Core CPI m/m\nImpact: High\nForecast: 0.2%\nPrevious: 0.3%\nSou
+ rce: Forex Factory economic calendar\nhttps://www.forexfactory.com/calenda
+ r?day=nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:874feba644f01b43@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T083000
 DTEND;TZID=America/New_York:20261110T084500
 SUMMARY:CPI m/m
-DESCRIPTION:CPI m/m\nImpact: High\nSource: Forex Factory economic calendar\
- nhttps://www.forexfactory.com/calendar?day=nov10.2026
+DESCRIPTION:CPI m/m\nImpact: High\nForecast: 0.3%\nPrevious: 0.6%\nSource: 
+ Forex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day
+ =nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a846b9cf344045e4@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;TZID=America/New_York:20261110T083000
-DTEND;TZID=America/New_York:20261110T084500
-SUMMARY:CPI y/y
-DESCRIPTION:CPI y/y\nImpact: High\nSource: Forex Factory economic calendar\
- nhttps://www.forexfactory.com/calendar?day=nov10.2026
+UID:640d7f355c9f86d8@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T105000
+DTEND;TZID=America/New_York:20261110T110500
+SUMMARY:FOMC Member Logan Speaks
+DESCRIPTION:FOMC Member Logan Speaks\nImpact: Low\nSource: Forex Factory ec
+ onomic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aaf62ddbb4f10afe@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T130100
 DTEND;TZID=America/New_York:20261110T131600
 SUMMARY:10-y Bond Auction
-DESCRIPTION:10-y Bond Auction\nImpact: Low\nSource: Forex Factory economic 
- calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+DESCRIPTION:10-y Bond Auction\nImpact: Low\nPrevious: 5.30|2.8\nSource: For
+ ex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=no
+ v10.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:20c1e55d44647da6@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T133000
+DTEND;TZID=America/New_York:20261110T134500
+SUMMARY:FOMC Member Schmid Speaks
+DESCRIPTION:FOMC Member Schmid Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b95c50652f2b79c7@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T153000
+DTEND;TZID=America/New_York:20261110T154500
+SUMMARY:FOMC Member Bowman Speaks
+DESCRIPTION:FOMC Member Bowman Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d759e9ae98719a78@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261110T163000
 DTEND;TZID=America/New_York:20261110T164500
 SUMMARY:API Weekly Statistical Bulletin
@@ -569,84 +291,167 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d397881d6e191b91@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T183000
+DTEND;TZID=America/New_York:20261110T184500
+SUMMARY:FOMC Member Bowman Speaks
+DESCRIPTION:FOMC Member Bowman Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:44bd6897d5514fd0@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261110T183000
+DTEND;TZID=America/New_York:20261110T184500
+SUMMARY:FOMC Member Paulson Speaks
+DESCRIPTION:FOMC Member Paulson Speaks\nImpact: Low\nSource: Forex Factory 
+ economic calendar\nhttps://www.forexfactory.com/calendar?day=nov10.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1066f4df20fff135@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;VALUE=DATE:20261112
 SUMMARY:Mortgage Delinquencies
-DESCRIPTION:Mortgage Delinquencies\nImpact: Low\nSource: Forex Factory econ
- omic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:Mortgage Delinquencies\nImpact: Low\nPrevious: 4.37%\nSource: F
+ orex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=
+ nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:205c6b39b376d2cf@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261112T083000
 DTEND;TZID=America/New_York:20261112T084500
 SUMMARY:Unemployment Claims
-DESCRIPTION:Unemployment Claims\nImpact: Medium\nSource: Forex Factory econ
- omic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:Unemployment Claims\nImpact: Medium\nForecast: 194K\nPrevious: 
+ 189K\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.co
+ m/calendar?day=nov12.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:648ce02428bcb436@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T090000
+DTEND;TZID=America/New_York:20261112T091500
+SUMMARY:FOMC Member Hammack Speaks
+DESCRIPTION:FOMC Member Hammack Speaks\nImpact: Low\nSource: Forex Factory 
+ economic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7b086b4e3c9d74a2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261112T100000
 DTEND;TZID=America/New_York:20261112T101500
 SUMMARY:Existing Home Sales
-DESCRIPTION:Existing Home Sales\nImpact: Low\nSource: Forex Factory economi
- c calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:Existing Home Sales\nImpact: Low\nForecast: 3.86M\nPrevious: 3.
+ 99M\nSource: Forex Factory economic calendar\nhttps://www.forexfactory.com
+ /calendar?day=nov12.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:255cfd0ff79efd05@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T100000
+DTEND;TZID=America/New_York:20261112T101500
+SUMMARY:FOMC Member Barr Speaks
+DESCRIPTION:FOMC Member Barr Speaks\nImpact: Low\nSource: Forex Factory eco
+ nomic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:41b7a24b9d5e9599@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T113000
+DTEND;TZID=America/New_York:20261112T114500
+SUMMARY:FOMC Member Goolsbee Speaks
+DESCRIPTION:FOMC Member Goolsbee Speaks\nImpact: Low\nSource: Forex Factory
+  economic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:54d9156cf664371e@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261112T120000
 DTEND;TZID=America/New_York:20261112T121500
 SUMMARY:Crude Oil Inventories
-DESCRIPTION:Crude Oil Inventories\nImpact: Low\nSource: Forex Factory econo
- mic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:Crude Oil Inventories\nImpact: Low\nPrevious: -0.9M\nSource: Fo
+ rex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=n
+ ov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:625df4137bfdf8cf@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261112T130100
 DTEND;TZID=America/New_York:20261112T131600
 SUMMARY:30-y Bond Auction
-DESCRIPTION:30-y Bond Auction\nImpact: Low\nSource: Forex Factory economic 
- calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:30-y Bond Auction\nImpact: Low\nPrevious: 5.62|2.5\nSource: For
+ ex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=no
+ v12.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ed74b4846c1ace00@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T131000
+DTEND;TZID=America/New_York:20261112T132500
+SUMMARY:FOMC Member Daly Speaks
+DESCRIPTION:FOMC Member Daly Speaks\nImpact: Low\nSource: Forex Factory eco
+ nomic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb149ead86a43df@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T133000
+DTEND;TZID=America/New_York:20261112T134500
+SUMMARY:FOMC Member Schmid Speaks
+DESCRIPTION:FOMC Member Schmid Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55b238cfe48976f9@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261112T140000
 DTEND;TZID=America/New_York:20261112T141500
 SUMMARY:Federal Budget Balance
-DESCRIPTION:Federal Budget Balance\nImpact: Low\nSource: Forex Factory econ
- omic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
+DESCRIPTION:Federal Budget Balance\nImpact: Low\nPrevious: -26.9B\nSource: 
+ Forex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day
+ =nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f2f2833019a45ac7@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
-DTSTART;VALUE=DATE:20261113
-SUMMARY:FOMC Financial Stability Report
-DESCRIPTION:FOMC Financial Stability Report\nImpact: Low\nSource: Forex Fac
- tory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov13.20
- 26
+UID:39d84e8fdcc2356f@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261112T183000
+DTEND;TZID=America/New_York:20261112T184500
+SUMMARY:FOMC Member Williams Speaks
+DESCRIPTION:FOMC Member Williams Speaks\nImpact: Low\nSource: Forex Factory
+  economic calendar\nhttps://www.forexfactory.com/calendar?day=nov12.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:295127684abc5b1e@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T084500
 SUMMARY:PPI
@@ -656,40 +461,87 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a2a7c518a17b3362@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T084500
 SUMMARY:Core PPI m/m
-DESCRIPTION:Core PPI m/m\nImpact: High\nSource: Forex Factory economic cale
- ndar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
+DESCRIPTION:Core PPI m/m\nImpact: High\nForecast: 0.3%\nPrevious: 0.7%\nSou
+ rce: Forex Factory economic calendar\nhttps://www.forexfactory.com/calenda
+ r?day=nov13.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb2c8763d85b4f9@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261113T083000
 DTEND;TZID=America/New_York:20261113T084500
 SUMMARY:PPI m/m
-DESCRIPTION:PPI m/m\nImpact: High\nSource: Forex Factory economic calendar\
- nhttps://www.forexfactory.com/calendar?day=nov13.2026
+DESCRIPTION:PPI m/m\nImpact: High\nForecast: 0.4%\nPrevious: 1.3%\nSource: 
+ Forex Factory economic calendar\nhttps://www.forexfactory.com/calendar?day
+ =nov13.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d419388e9b3a448@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261113T091000
+DTEND;TZID=America/New_York:20261113T092500
+SUMMARY:FOMC Member Collins Speaks
+DESCRIPTION:FOMC Member Collins Speaks\nImpact: Low\nSource: Forex Factory 
+ economic calendar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1b2cae43c1412c2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261113T103000
 DTEND;TZID=America/New_York:20261113T104500
 SUMMARY:Natural Gas Storage
-DESCRIPTION:Natural Gas Storage\nImpact: Low\nSource: Forex Factory economi
- c calendar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
+DESCRIPTION:Natural Gas Storage\nImpact: Low\nPrevious: 77B\nSource: Forex 
+ Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov13
+ .2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ff67bdb5ffded3ea@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261113T105000
+DTEND;TZID=America/New_York:20261113T110500
+SUMMARY:FOMC Member Bowman Speaks
+DESCRIPTION:FOMC Member Bowman Speaks\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ccf5d13008276b9b@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261113T120000
+DTEND;TZID=America/New_York:20261113T121500
+SUMMARY:FOMC Member Daly Speaks
+DESCRIPTION:FOMC Member Daly Speaks\nImpact: Low\nSource: Forex Factory eco
+ nomic calendar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86f08e6017943a48@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261113T190000
+DTEND;TZID=America/New_York:20261113T191500
+SUMMARY:FOMC Member Jefferson Speaks
+DESCRIPTION:FOMC Member Jefferson Speaks\nImpact: Low\nSource: Forex Factor
+ y economic calendar\nhttps://www.forexfactory.com/calendar?day=nov13.2026
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eadff394a84d34a5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;VALUE=DATE:20261116
 SUMMARY:Cleveland Fed Inflation Expectations
 DESCRIPTION:Cleveland Fed Inflation Expectations\nImpact: Low\nSource: Fore
@@ -700,7 +552,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be8137535eba42e9@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261116T083000
 DTEND;TZID=America/New_York:20261116T084500
 SUMMARY:Empire State Manufacturing Index
@@ -712,7 +564,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d219087cc2ad4b2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T081500
 DTEND;TZID=America/New_York:20261117T083000
 SUMMARY:ADP Weekly Employment Change
@@ -723,7 +575,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6fe581b1e320c243@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T084500
 SUMMARY:Retail Sales (Oct)
@@ -734,7 +586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a45bf4378e9af680@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T084500
 SUMMARY:Core Retail Sales m/m
@@ -745,7 +597,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:11900c39e13c3327@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T084500
 SUMMARY:Retail Sales m/m
@@ -756,7 +608,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2567554ee369acfb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T083000
 DTEND;TZID=America/New_York:20261117T084500
 SUMMARY:Import Prices m/m
@@ -767,7 +619,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a6ce9beaeafcd230@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T091500
 DTEND;TZID=America/New_York:20261117T093000
 SUMMARY:Capacity Utilization Rate
@@ -778,7 +630,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:36f7b705cb1d0378@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T091500
 DTEND;TZID=America/New_York:20261117T093000
 SUMMARY:Industrial Production m/m
@@ -789,7 +641,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9cd20052f0cfd890@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T101500
 SUMMARY:Business Inventories m/m
@@ -800,7 +652,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1eb6c78625b7ebcb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T100000
 DTEND;TZID=America/New_York:20261117T101500
 SUMMARY:NAHB Housing Market Index
@@ -811,7 +663,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1b08aaa51d29aa@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261117T163000
 DTEND;TZID=America/New_York:20261117T164500
 SUMMARY:API Weekly Statistical Bulletin
@@ -823,7 +675,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d5ac94e5f75a65d@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T083000
 DTEND;TZID=America/New_York:20261118T084500
 SUMMARY:Building Permits
@@ -834,7 +686,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e42be6a4c0fa8d9@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T083000
 DTEND;TZID=America/New_York:20261118T084500
 SUMMARY:Housing Starts
@@ -845,7 +697,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:173884ee4d6b0d62@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T100000
 DTEND;TZID=America/New_York:20261118T101500
 SUMMARY:Pending Home Sales m/m
@@ -856,7 +708,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2feffee64426d3a5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T103000
 DTEND;TZID=America/New_York:20261118T104500
 SUMMARY:Crude Oil Inventories
@@ -867,7 +719,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2e711206fdb6a56@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T140000
 DTEND;TZID=America/New_York:20261118T141500
 SUMMARY:FOMC Meeting Minutes
@@ -878,7 +730,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fd6522c9dd744b5b@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261118T160000
 DTEND;TZID=America/New_York:20261118T161500
 SUMMARY:TIC Long-Term Purchases
@@ -889,7 +741,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f9b0bac4f6e6bbac@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261119T083000
 DTEND;TZID=America/New_York:20261119T084500
 SUMMARY:Philly Fed Manufacturing Index
@@ -901,7 +753,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ceaa4b519c132008@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261119T083000
 DTEND;TZID=America/New_York:20261119T084500
 SUMMARY:Unemployment Claims
@@ -912,7 +764,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6b7e3d5aeb057197@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261119T100000
 DTEND;TZID=America/New_York:20261119T101500
 SUMMARY:CB Leading Index m/m
@@ -923,7 +775,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2a053ef46251fbd4@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261119T103000
 DTEND;TZID=America/New_York:20261119T104500
 SUMMARY:Natural Gas Storage
@@ -934,7 +786,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b58b2fe8a769f833@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Fed Monetary Policy Report
 DESCRIPTION:Fed Monetary Policy Report\nImpact: Low\nSource: Forex Factory 
@@ -944,7 +796,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b42069623d927490@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;VALUE=DATE:20261120
 SUMMARY:Treasury Currency Report
 DESCRIPTION:Treasury Currency Report\nImpact: Medium\nSource: Forex Factory
@@ -954,7 +806,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9f243a4b5b6741@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T101500
 SUMMARY:Revised UoM Consumer Sentiment
@@ -966,7 +818,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fea82157d9755e6e@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261120T100000
 DTEND;TZID=America/New_York:20261120T101500
 SUMMARY:Revised UoM Inflation Expectations
@@ -978,7 +830,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1e64c5c1e22bcab5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261123T094500
 DTEND;TZID=America/New_York:20261123T100000
 SUMMARY:Flash Manufacturing PMI
@@ -989,7 +841,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6fb4b6e7656bf58@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261123T094500
 DTEND;TZID=America/New_York:20261123T100000
 SUMMARY:Flash Services PMI
@@ -1000,7 +852,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9cd55df8c42d84d5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T081500
 DTEND;TZID=America/New_York:20261124T083000
 SUMMARY:ADP Weekly Employment Change
@@ -1011,7 +863,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0f7bc3133b0e5ce2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T090000
 DTEND;TZID=America/New_York:20261124T091500
 SUMMARY:HPI m/m
@@ -1022,7 +874,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8c65a6d7df2df64c@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T090000
 DTEND;TZID=America/New_York:20261124T091500
 SUMMARY:S&P/CS Composite-20 HPI y/y
@@ -1033,7 +885,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5672e04578ac3c4d@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T100000
 DTEND;TZID=America/New_York:20261124T101500
 SUMMARY:CB Consumer Confidence
@@ -1044,7 +896,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:83afae48ffb57181@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T100000
 DTEND;TZID=America/New_York:20261124T101500
 SUMMARY:Richmond Manufacturing Index
@@ -1055,7 +907,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8aa3af42575239c8@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261124T163000
 DTEND;TZID=America/New_York:20261124T164500
 SUMMARY:API Weekly Statistical Bulletin
@@ -1067,7 +919,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4406865d3c6fa7b3@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:GDP Q3 (2nd est.)
@@ -1077,7 +929,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1e67af631b07a2e2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:PCE inflation (Oct)
@@ -1087,7 +939,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:50ec0f29cc942cae@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Core PCE Price Index m/m
@@ -1098,7 +950,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ec30c6f9aa116f5@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Prelim GDP q/q
@@ -1109,7 +961,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e7821027b099f2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Prelim GDP Price Index q/q
@@ -1120,7 +972,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:544ab766517579ff@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Unemployment Claims
@@ -1131,7 +983,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:69ca6b5738228847@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Core Durable Goods Orders m/m
@@ -1142,7 +994,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d04fb288c5cd2ea0@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Durable Goods Orders m/m
@@ -1153,7 +1005,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:691bde2d5a693345@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Personal Income m/m
@@ -1164,7 +1016,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a9ffa76d3a7eb1c@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T083000
 DTEND;TZID=America/New_York:20261125T084500
 SUMMARY:Personal Spending m/m
@@ -1175,7 +1027,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20af921230940d48@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T100000
 DTEND;TZID=America/New_York:20261125T101500
 SUMMARY:New Home Sales
@@ -1186,7 +1038,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:135279b8a5fae269@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T103000
 DTEND;TZID=America/New_York:20261125T104500
 SUMMARY:Crude Oil Inventories
@@ -1197,7 +1049,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:836673246d07f266@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T120000
 DTEND;TZID=America/New_York:20261125T121500
 SUMMARY:Natural Gas Storage
@@ -1208,7 +1060,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9aeeb1d41d0446@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261125T140000
 DTEND;TZID=America/New_York:20261125T141500
 SUMMARY:Beige Book
@@ -1219,7 +1071,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4ebf38409b3d2b8c@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:Bank Holiday
 DESCRIPTION:Bank Holiday\nImpact: Holiday\nSource: Forex Factory economic c
@@ -1228,8 +1080,19 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ea6e56e4d7e65fe2@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;VALUE=DATE:20261127
+SUMMARY:FOMC Financial Stability Report
+DESCRIPTION:FOMC Financial Stability Report\nImpact: Low\nSource: Forex Fac
+ tory economic calendar\nhttps://www.forexfactory.com/calendar?day=nov27.20
+ 26
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:f2eaa7ffdf7541ba@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261127T083000
 DTEND;TZID=America/New_York:20261127T084500
 SUMMARY:Goods Trade Balance
@@ -1240,7 +1103,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0fbda10116ab2edb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261127T083000
 DTEND;TZID=America/New_York:20261127T084500
 SUMMARY:Prelim Wholesale Inventories m/m
@@ -1251,8 +1114,194 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1eeed25c8d8e7fed@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261130T094500
+DTEND;TZID=America/New_York:20261130T100000
+SUMMARY:Chicago PMI
+DESCRIPTION:Chicago PMI\nImpact: Low\nSource: Forex Factory economic calend
+ ar\nhttps://www.forexfactory.com/calendar?day=nov30.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fb43e4959e7b2cf1@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:RCM/TIPP Economic Optimism
+DESCRIPTION:RCM/TIPP Economic Optimism\nImpact: Low\nSource: Forex Factory 
+ economic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86de16fbe9b41b51@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Omdia Total Vehicle Sales
+DESCRIPTION:Omdia Total Vehicle Sales\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:655e23dba3a70ca7@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T094500
+DTEND;TZID=America/New_York:20261201T100000
+SUMMARY:Final Manufacturing PMI
+DESCRIPTION:Final Manufacturing PMI\nImpact: Low\nSource: Forex Factory eco
+ nomic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:99075f70fca9f9c1@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T101500
+SUMMARY:ISM Manufacturing PMI
+DESCRIPTION:ISM Manufacturing PMI\nImpact: Medium\nSource: Forex Factory ec
+ onomic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3fbb36146c624c25@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T101500
+SUMMARY:JOLTS Job Openings
+DESCRIPTION:JOLTS Job Openings\nImpact: Medium\nSource: Forex Factory econo
+ mic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e56a65fa5b4d2dc@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T101500
+SUMMARY:Construction Spending m/m
+DESCRIPTION:Construction Spending m/m\nImpact: Low\nSource: Forex Factory e
+ conomic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:408bba59fbf845ae@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T100000
+DTEND;TZID=America/New_York:20261201T101500
+SUMMARY:ISM Manufacturing Prices
+DESCRIPTION:ISM Manufacturing Prices\nImpact: Low\nSource: Forex Factory ec
+ onomic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:628afb25ddd20ac4@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261201T163000
+DTEND;TZID=America/New_York:20261201T164500
+SUMMARY:API Weekly Statistical Bulletin
+DESCRIPTION:API Weekly Statistical Bulletin\nImpact: Low\nSource: Forex Fac
+ tory economic calendar\nhttps://www.forexfactory.com/calendar?day=dec1.202
+ 6
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8dbf0bcdc2578c7c@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261202T081500
+DTEND;TZID=America/New_York:20261202T083000
+SUMMARY:ADP Non-Farm Employment Change
+DESCRIPTION:ADP Non-Farm Employment Change\nImpact: Low\nSource: Forex Fact
+ ory economic calendar\nhttps://www.forexfactory.com/calendar?day=dec2.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:43687a83c3208b97@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261202T103000
+DTEND;TZID=America/New_York:20261202T104500
+SUMMARY:Crude Oil Inventories
+DESCRIPTION:Crude Oil Inventories\nImpact: Low\nSource: Forex Factory econo
+ mic calendar\nhttps://www.forexfactory.com/calendar?day=dec2.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c074ea8cc4f45a4a@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T053000
+DTEND;TZID=America/New_York:20261203T054500
+SUMMARY:Challenger Job Cuts y/y
+DESCRIPTION:Challenger Job Cuts y/y\nImpact: Low\nSource: Forex Factory eco
+ nomic calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eaeb06471f3d8aff@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T083000
+DTEND;TZID=America/New_York:20261203T084500
+SUMMARY:Unemployment Claims
+DESCRIPTION:Unemployment Claims\nImpact: Medium\nSource: Forex Factory econ
+ omic calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2519386f4474cd@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T094500
+DTEND;TZID=America/New_York:20261203T100000
+SUMMARY:Final Services PMI
+DESCRIPTION:Final Services PMI\nImpact: Low\nSource: Forex Factory economic
+  calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0e0d749ecc954f@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T100000
+DTEND;TZID=America/New_York:20261203T101500
+SUMMARY:ISM Services PMI
+DESCRIPTION:ISM Services PMI\nImpact: Medium\nSource: Forex Factory economi
+ c calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:51602a34ebee88e0@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T100000
+DTEND;TZID=America/New_York:20261203T101500
+SUMMARY:Factory Orders m/m
+DESCRIPTION:Factory Orders m/m\nImpact: Low\nSource: Forex Factory economic
+  calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2aede8af4f42ef71@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261203T103000
+DTEND;TZID=America/New_York:20261203T104500
+SUMMARY:Natural Gas Storage
+DESCRIPTION:Natural Gas Storage\nImpact: Low\nSource: Forex Factory economi
+ c calendar\nhttps://www.forexfactory.com/calendar?day=dec3.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:39a797616eee50c2@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261204T083000
 DTEND;TZID=America/New_York:20261204T084500
 SUMMARY:Employment Situation (NFP)
@@ -1262,8 +1311,54 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:23551cc66d60b1b6@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261204T083000
+DTEND;TZID=America/New_York:20261204T084500
+SUMMARY:Average Hourly Earnings m/m
+DESCRIPTION:Average Hourly Earnings m/m\nImpact: High\nSource: Forex Factor
+ y economic calendar\nhttps://www.forexfactory.com/calendar?day=dec4.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eb5e73e771d36cf1@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261204T083000
+DTEND;TZID=America/New_York:20261204T084500
+SUMMARY:Non-Farm Employment Change
+DESCRIPTION:Non-Farm Employment Change\nImpact: High\nSource: Forex Factory
+  economic calendar\nhttps://www.forexfactory.com/calendar?day=dec4.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:af5a9081fa362b33@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261204T100000
+DTEND;TZID=America/New_York:20261204T101500
+SUMMARY:Prelim UoM Consumer Sentiment
+DESCRIPTION:Prelim UoM Consumer Sentiment\nImpact: Medium\nSource: Forex Fa
+ ctory economic calendar\nhttps://www.forexfactory.com/calendar?day=dec4.20
+ 26
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:677f972aff6ebe61@thorvaldstark-econ-ics
+DTSTAMP:20261109T045429Z
+DTSTART;TZID=America/New_York:20261204T100000
+DTEND;TZID=America/New_York:20261204T101500
+SUMMARY:Prelim UoM Inflation Expectations
+DESCRIPTION:Prelim UoM Inflation Expectations\nImpact: Medium\nSource: Fore
+ x Factory economic calendar\nhttps://www.forexfactory.com/calendar?day=dec
+ 4.2026
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8c5b5debfb0d8c2d@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261209T140000
 DTEND;TZID=America/New_York:20261209T141500
 SUMMARY:FOMC rate decision
@@ -1274,7 +1369,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1b913d9963cee25e@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261210T083000
 DTEND;TZID=America/New_York:20261210T084500
 SUMMARY:CPI
@@ -1284,7 +1379,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3b8aefbfd170b389@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261215T083000
 DTEND;TZID=America/New_York:20261215T084500
 SUMMARY:PPI
@@ -1294,7 +1389,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6dca7069cb2df7c1@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261216T083000
 DTEND;TZID=America/New_York:20261216T084500
 SUMMARY:Retail Sales (Nov)
@@ -1305,7 +1400,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8827139f10cab4b6@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T084500
 SUMMARY:GDP Q3 (3rd est.)
@@ -1315,7 +1410,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4143c4f8737a5deb@thorvaldstark-econ-ics
-DTSTAMP:20261102T045409Z
+DTSTAMP:20261109T045429Z
 DTSTART;TZID=America/New_York:20261223T083000
 DTEND;TZID=America/New_York:20261223T084500
 SUMMARY:PCE inflation (Nov)
